@@ -1,1 +1,1 @@
-# test-iq-oq-git-intg
+# Repo to test the GIT integration with Databricks
