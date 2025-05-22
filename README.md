@@ -1,1 +1,1 @@
-# Repo to test the GIT integration with Databricks
+# Repo to test the feature GIT integration with Databricks
